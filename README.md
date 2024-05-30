@@ -3,4 +3,4 @@ This Repository contains the projects that were done as a part of the Python Dev
 
 Task 1- ATM_Interface
 Task 2- QR_Code_Generator
-Task 3- Timer (Files included in this are button.py, Timer_main.py, backdrop.png, button.png)
+Task 3- Timer (Files included in this are button.py, Timer_main.py, backdrop.png, button.png, ArialRoundedMTBold.ttf)
